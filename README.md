@@ -131,7 +131,7 @@
       <td>THY Blog App</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/social-media" target="_blank">Repo Details</td>
       <td><a href="https://thy-blog.netlify.app/" target="_blank">App Details</td>
-      <td><img src="./img/17-movie.gif" alt="blog" height="175px"></td>
+      <td><img src="./img/17-blog.gif" alt="blog" height="175px"></td>
     </tr>
     
   
