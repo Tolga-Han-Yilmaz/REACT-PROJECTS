@@ -128,10 +128,17 @@
     </tr>
     <tr>
       <td align=center >17.</td>
+      <td>E-Commerce App</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/e-commerce" target="_blank">Repo Details</td>
+      <td><a href="https://e-commerce-ivory-six.vercel.app/" target="_blank">App Details</td>
+      <td><img src="./img/17-commerce.gif" alt="ecommerce" height="175px"></td>
+    </tr>
+    <tr>
+      <td align=center >18.</td>
       <td>THY Blog App</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/social-media" target="_blank">Repo Details</td>
       <td><a href="https://thy-blog.netlify.app/" target="_blank">App Details</td>
-      <td><img src="./img/17-blog.gif" alt="blog" height="175px"></td>
+      <td><img src="./img/18-blog.gif" alt="blog" height="175px"></td>
     </tr>
     
   
