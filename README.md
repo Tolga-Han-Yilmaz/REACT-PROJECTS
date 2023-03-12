@@ -145,7 +145,14 @@
       <td>E Course</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/global_ai_hub" target="_blank">Repo Details</td>
       <td><a href="https://global-ai-hub-courses-rho.vercel.app/" target="_blank">App Details</td>
-      <td><img src="./img/19-course.gif" alt="course" height="175px"></td>
+      <td><img src="./img/19-ecourse.png" alt="course" height="175px"></td>
+    </tr>
+    <tr>
+      <td align=center >20.</td>
+      <td>Myportfolio</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/myportfolio" target="_blank">Repo Details</td>
+      <td><a href="https://tolgahanyilmaz.vercel.app/" target="_blank">App Details</td>
+      <td><img src="./img/20-myportfolio.png" alt="course" height="175px"></td>
     </tr>
     
   
