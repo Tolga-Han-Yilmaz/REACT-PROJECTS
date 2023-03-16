@@ -152,7 +152,7 @@
       <td>Myportfolio</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/myportfolio" target="_blank">Repo Details</td>
       <td><a href="https://tolgahanyilmaz.vercel.app/" target="_blank">App Details</td>
-      <td><img src="./img/20-myportfolio.png" alt="course" height="177px"></td>
+      <td><img src="./img/20-myportfolio.png" alt="course" height="175px"></td>
     </tr>
     
   
